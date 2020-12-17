@@ -2,6 +2,18 @@
 function generateMarkdown(data) {
   return `# ${data.projectTitle}
 
+  # Table of Contents:
+
+  1. [Description](#${data.description})
+  2. [Installation Process](#${data.installation})
+  3. [Usage](${data.usage})
+  4. [License](${data.license})
+  5. [Contributors](${data.contributing})
+  6. [Testing](${data.tests})
+  7. [Github Username](${data.username})
+  8. [Email Address](${data.email})
+
+
   ## Description:
   ${data.description}
 
