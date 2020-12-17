@@ -5,6 +5,27 @@ function generateMarkdown(data) {
   ## Description:
   ${data.description}
 
+  ## Installation Process:
+  ${data.installation}
+
+  ## Usage:
+  ${data.usage}
+
+  ## License:
+  ![Badge for GitHub](https://img.shields.io/static/v1?label=${data.license}&message=License&color=blue)
+
+  ## Contributors:
+  ${data.contributing}
+
+  ## Testing:
+  ${data.tests}
+
+  ### Github Username:
+  ${data.username}
+
+  ### Email Address:
+  ${data.email}
+
 `;
 }
 
