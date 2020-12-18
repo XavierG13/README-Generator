@@ -5,46 +5,51 @@ function generateMarkdown(data) {
 
   # Table of Contents:
 
-  1. [Description](${data.description})
-  2. [Installation Process](${data.installation})
-  3. [Usage](${data.usage})
-  4. [License](${data.license})
-  5. [Contributors](${data.contributing})
-  6. [Testing](${data.tests})
-  7. [Github Username](${data.username})
-  8. [Email Address](${data.email})
+  1. [Description](#description)
+  2. [Installation Process](#installation-process)
+  3. [Usage](#usage)
+  4. [License](#license)
+  5. [Contributors](#contributors)
+  6. [Testing](#testing)
+  7. [Github Username](#github-username)
+  8. [Email Address](#email-address)
+  9. [Examples](#examples)
 
 ## Questions:
 - Contact Me:
   - If you have any questions about the application please email me at ${data.email}.
   - Here you can find my Github page [XavierG13](https://github.com/${data.username})
 
-  ## Description:
+## Description:
   ${data.description}
 
-  ## Installation Process:
+## Installation Process:
   ${data.installation}
 
-  ## Usage:
+## Usage:
   ${data.usage}
 
-  ## License:
-
-  ## Contributors:
+## License:
+  - This application is covered under the ${data.license} license.
+  
+## Contributors:
   ${data.contributing}
 
-  ## Testing:
+## Testing:
   ${data.tests}
 
-  ### Github Username:
+### Github Username:
   ${data.username}
 
-  ### Email Address:
+### Email Address:
   ${data.email}
 
-  ## Images:
-  ![img]()
+# Examples:
 
+## Video:
+
+## Images:
+  ![img]()
 `;
 }
 
