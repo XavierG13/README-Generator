@@ -47,9 +47,11 @@ function generateMarkdown(data) {
 # Examples:
 
 ## Video:
-[Video Example](https://drive.google.com/file/d/14vpevQMrTEyZZJQ7Sg3YhlCystQ6pROI/view)
+- [Link to video](https://drive.google.com/file/d/14vpevQMrTEyZZJQ7Sg3YhlCystQ6pROI/view)
+
+![Example Video](assets\video\readme.webm)
 ## Images:
-  ![img]()
+  ![README Generator](assets\images\readme-img.png)
 `;
 }
 

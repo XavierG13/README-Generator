@@ -1,5 +1,5 @@
 # README Generator
-  ![Badge for GitHub](https://img.shields.io/static/v1?label=MIT&message=License&color=blue)
+  ![Badge for GitHub](https://img.shields.io/static/v1?label=Apache&message=License&color=blue)
 
   # Table of Contents:
 
@@ -28,7 +28,7 @@
   When I use node index. Then I am able to answer the questions given. When all questions are given. Then a README.md file is generated.
 
 ## License:
-  - This application is covered under the MIT license.
+  - This application is covered under the Apache license.
   
 ## Contributors:
   Add any contributors if applicable.
@@ -45,6 +45,8 @@
 # Examples:
 
 ## Video:
-[Video Example](https://drive.google.com/file/d/14vpevQMrTEyZZJQ7Sg3YhlCystQ6pROI/view)
+- [Link to video](https://drive.google.com/file/d/14vpevQMrTEyZZJQ7Sg3YhlCystQ6pROI/view)
+
+![Example Video](assetsideoeadme.webm)
 ## Images:
-  ![img]()
+  ![README Generator](assetsimageseadme-img.png)
