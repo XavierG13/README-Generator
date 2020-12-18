@@ -19,13 +19,13 @@
   - Here you can find my Github page [XavierG13](https://github.com/XavierG13)
 
 ## Description:
-  This will write a README.md file for users to use with future projects and applications.
+  Given the prompts I will be able to answer the questions provided in order to generate a proper readme file. This file will have prompts in order to describe and provide proper links for the user's application. If any questions regarding the project arise there is a section for users to input contact information.
 
 ## Installation Process:
-  npm i inquirer
+  npm install inquirer
 
 ## Usage:
-  It is used to ask the user questions about their project/application. It will add multiple items to the README in order to generate a proper file.
+  When I use node index. Then I am able to answer the questions given. When all questions are given. Then a README.md file is generated.
 
 ## License:
   - This application is covered under the MIT license.
@@ -34,7 +34,7 @@
   Add any contributors if applicable.
 
 ## Testing:
-  Answer all prompts to complete file.
+  Answer all questions to complete readme.
 
 ### Github Username:
   XavierG13
@@ -45,6 +45,6 @@
 # Examples:
 
 ## Video:
-
+[Video Example](https://drive.google.com/file/d/14vpevQMrTEyZZJQ7Sg3YhlCystQ6pROI/view)
 ## Images:
   ![img]()
