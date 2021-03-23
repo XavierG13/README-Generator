@@ -51,7 +51,7 @@ function generateMarkdown(data) {
 
 ![Example Video](assets\video\readme.webm)
 ## Images:
-  ![README Generator](assets\images\readme-img.png)
+![img](assets\images\readme-img.png)
 `;
 }
 
